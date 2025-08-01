@@ -11,10 +11,11 @@
 Perfect for small businesses or startups needing insight into sales trends using only Excel.
 
 ## Preview
-![Screenshot](link-to-image-if-you-host)
+https://drive.google.com/file/d/12kORWpZpzNvzLZL3Gu4EmS-yPawRlbC-/view?usp=sharing
+
 
 ## File
-- `Sales_Dashboard_Project.xlsx`
+https://1drv.ms/x/c/c2f392bd571b7a3d/ESwoeJkJcLlOk5AW9J1fxMwB2zP9l-4auXHHSvdWHSGTMg?e=EfGQMy
 
 ---
 
