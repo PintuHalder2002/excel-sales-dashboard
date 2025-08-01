@@ -11,7 +11,8 @@
 Perfect for small businesses or startups needing insight into sales trends using only Excel.
 
 ## Preview
-https://drive.google.com/file/d/12kORWpZpzNvzLZL3Gu4EmS-yPawRlbC-/view?usp=sharing
+<img width="1893" height="716" alt="Dashboard" src="https://github.com/user-attachments/assets/ce78c807-1fdc-413b-a2d2-7c2371f58f14" />
+
 
 
 ## File
